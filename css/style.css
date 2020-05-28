@@ -37,11 +37,12 @@ p {
 }
 
 .firstpage {
+  display: block;
   margin: 0;
   padding: 0;
   background-color: #ebfffa;
-  height: 605px;
-  width: 100%;
+height: 650px;
+
 }
 
 #om {
@@ -53,7 +54,7 @@ p {
 }
 
 .secondpage {
-  width: 100%;
+  
   height: 700px;
   margin: 0;
   padding: 0;
