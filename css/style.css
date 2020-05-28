@@ -60,11 +60,13 @@ p {
 }
 
 #DP {
-  margin: 0;
-  padding: 0;
+  margin: auto;
+  padding: auto;
   border-radius: 100%;
   position: absolute;
   left: 33%;
+  right: 33%;
+  width: 33%;
 
 }
 
@@ -110,16 +112,6 @@ img {
   position: absolute;
   top: 20%;
   left: 20%;
-}
-
-#cloud2 {
-  position: absolute;
-  margin: 0;
-  padding: 0;
-  height: 30%;
-  width: 70%;
-  top: 30%;
-  right: : 20%;
 }
 
 #bhagwa {
