@@ -21,8 +21,9 @@ h2 {
 p {
   margin: 0;
   padding: 0;
-  color: #4cbbb9;
+  color: #545454;
   font-family: 'Roboto', sans-serif;
+
 }
 
 .intro {
@@ -36,7 +37,7 @@ p {
 .firstpage {
   background-color: #ebfffa;
   height: auto;
-  padding-top: 12%;
+  padding-top: 15%;
   padding-bottom: 12%;
 }
 
@@ -56,12 +57,12 @@ p {
 
 #DP {
   margin: auto;
-  padding: auto;
   border-radius: 100%;
   position: absolute;
   left: 33%;
   right: 33%;
   width: 33%;
+  bor
 }
 
 hr {
@@ -106,11 +107,7 @@ img {
   color: #FF9933;
 }
 
-.test {
-  position: absolute;
-  top 0;
-  left: 30%;
-}
+
 
 .secondpage-content {
   position: relative;
@@ -132,5 +129,112 @@ img {
   padding: 0;
   margin: 0;
   width: 100%;
-  background-color: blue;
+  background-color: #a6e3e9;
+}
+#restofh1{
+  color: #0c056d;
+}
+#school{
+
+
+}
+
+.third-row{
+  line-height: 2;
+  position: relative;
+  width: 50%;
+  left: 25%;
+  margin-top: 2%;
+
+}
+
+.school-img{
+  float: left;
+  height: 20%;
+  width: 20%;
+}
+.fourthpage {
+  padding: 0;
+  margin: 0;
+  width: 100%;
+  background-color: #cbf1f5;
+}
+.forthrow
+{
+  width: 50%;
+  margin-top: 5%;
+  text-align: center;
+}
+#book{
+  height: 20%;
+  width: 20%;
+  float: left;
+  position: relative;
+  left: 50%;
+}
+#book-cont{
+  position: relative;
+  left: 40%;
+  top: 20%;
+  padding-top: 10%;
+}
+
+#podcast{
+  height: 20%;
+  width: 20%;
+  float: right;
+  position: relative;
+  left: 50%;
+}
+#podcast-cont{
+  position: relative;
+  left: 60%;
+  top: 30%;
+  padding-top: 10%;
+}
+
+#chess{
+  height: 20%;
+  width: 20%;
+  float: left;
+  position: relative;
+  left: 50%;
+}
+#chess-cont{
+  position: relative;
+  left: 40%;
+  top: 30%;
+  padding-top: 10%;
+}
+
+#Military{
+  height: 20%;
+  width: 20%;
+  float: right;
+  position: relative;
+  left: 50%;
+}
+#Military-cont{
+  position: relative;
+  left: 60%;
+  top: 30%;
+  padding-top: 10%;
+
+}
+
+.getintouch{
+  width: 100%;
+  background-color: #40514e;
+}
+ .fb{
+   color: #5fdde5;
+ }
+.fb:hover{
+  color: #3B5998;
+}
+.ig{
+  color: #5fdde5;
+}
+.ig:hover{
+  color: #e95950;
 }
