@@ -24,6 +24,8 @@ p {
   color: #545454;
   font-family: 'Roboto', sans-serif;
 
+
+
 }
 
 .intro {
@@ -115,6 +117,7 @@ img {
   left: 25%;
   padding-top: 35%;
   line-height: 2;
+  font-size: 2rem;
 }
 
 .img {
@@ -216,7 +219,7 @@ img {
 }
 #Military-cont{
   position: relative;
-  left: 60%;
+  left: 50%;
   top: 30%;
   padding-top: 10%;
 
